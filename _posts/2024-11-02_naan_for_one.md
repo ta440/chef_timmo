@@ -1,6 +1,6 @@
 ---
 date: 2017-01-06
-title: Lemon Cake
+title: Naan for one
 categories:
   - Cakes
 featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
@@ -27,16 +27,7 @@ recipe:
     4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
     5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
 ---
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
+Naan for one, as opposed to naan $\forall$. 
 
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
+As I am living by myself, I have tinkered with many recipes to make single servings. Here is a quick naan that I can whip up after a day at work and is so much better than anything shop-bought! It is great dipped in curries, but I always rip off a little piece to have just with melted butter.
 
-Straight out of the oven.
-
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
-
-You can add extra flavour with berries.
-
-![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
-
-Or a caramel sauce.
