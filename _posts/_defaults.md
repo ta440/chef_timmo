@@ -1,6 +1,6 @@
 ---
 title:
-categories:
+categories: Dinner, Bread
 date:
 featured_image:
 recipe:
