@@ -1,38 +1,31 @@
 ---
-date: 2017-01-05
-title: Gingernut Cookies
+date: 2024-11-02
+title: Go-to Muesli (Granola)
 categories:
   - Cookies
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 recipe:
-  servings: 60 cookies
+  servings: Many breakfasts
   prep: 15 minutes
-  cook: 15 minutes
+  cook: 15--30 minutes
   ingredients_markdown: |-
-    * 200 g butter
-    * 1 cup sugar
-    * 1 cup golden syrup
-    * 3 cups flour
-    * 1 tablespoon ground ginger
-    * 1 teaspoon baking soda
+    ** Wet ingredients
+    * 1/4 cup butter/oil
+    * 1/4 cup sweetner (honey/maple syrup)
+    ** Dry ingredients
+    * 1 cup whole oats (the big ones!)
+    * 1/2 cup rolled oats
+    * 
   directions_markdown: |-
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
+    1. Preheat the oven to 180°C.
+    2. Add the wet 
     3. Add the golden syrup and the dry ingredients.
     4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients! Hence, this is my attempt at reverse-engineering my usual ratios.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+[PICTURE TO ADD].
 
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
+A classic Kiwi combo --- Weet-bix, muesli, and banana.
