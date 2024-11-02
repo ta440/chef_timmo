@@ -1,14 +1,14 @@
 ---
 date: 2017-01-07
-title: Chocolate Cupcakes
+title: Coralie's Coronation Chicken
 categories:
-  - Cupcakes
-  - Cakes
+  - Dinner
+  - Time investment
 featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
 recipe:
-  servings: 12 cupcakes
-  prep: 5 minutes
-  cook: 25 minutes
+  servings: 8 portions
+  prep: ...
+  cook: ...
   ingredients_markdown: |-
     **Cupcakes**
 
@@ -46,16 +46,5 @@ recipe:
     1. Combine all of the above in a food processor and process until smooth. Refrigerate.
     2. Frost cupcakes as you use them.
 ---
-These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
-
-![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
-
-You can never go wrong with sprinkles.
-
-![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&h=940&fit=crop)
-
-Milk is a great addition to any cupcake experience.
-
-![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&h=940&fit=crop)
-
-Why not add some popcorn?
+I couldn't resist the illieration!
+This was always a special meal growing up, that we tended to have once a year. It required my Mum (Coralie) to do a lot of preparation, but the end result is always worth it! This does at least two decent meals for four people, and it's always better the second time when the flavours have longer to really mix and mingle.
