@@ -1,6 +1,8 @@
 ---
 title:
-categories: Dinner Bread
+categories: 
+ - Dinner
+ - Bread
 date:
 featured_image:
 recipe:
