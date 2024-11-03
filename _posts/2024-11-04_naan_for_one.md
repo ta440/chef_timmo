@@ -1,5 +1,5 @@
 ---
-date: 2017-01-06
+date: 2024-11-04
 title: Naan for one
 categories:
   - Bread
