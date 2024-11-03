@@ -2,7 +2,8 @@
 date: 2024-11-02
 title: Go-to Muesli (Granola)
 categories:
-  - Cookies
+  - Breakfast
+  - Baking
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 recipe:
   servings: Many breakfasts
