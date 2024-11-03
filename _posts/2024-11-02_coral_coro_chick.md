@@ -1,5 +1,5 @@
 ---
-date: 2017-01-07
+date: 2024-11-02
 title: Coralie's Coronation Chicken
 categories:
   - Dinner
