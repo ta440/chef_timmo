@@ -15,6 +15,7 @@ recipe:
     * 1/4 cup sweetner (honey/maple syrup)
     * A splash of vanilla essence
     * 1 tsp cinnamon or other spices (e.g pumpkin pie spice)
+    * <\br>
     ** Dry ingredients
     * 1 cup whole oats (the big ones!)
     * 1/2 cup rolled oats
