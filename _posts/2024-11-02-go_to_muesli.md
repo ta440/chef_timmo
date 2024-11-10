@@ -38,7 +38,7 @@ recipe:
 ---
 My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients. Hence, this is my attempt at reverse-engineering my usual ratios. These may change over time as I work out exactly what my preferred ratios are. The takehome is that this framework is very flexible, so please adjust to your desired sweetness, crunch, and ratio of oats to nuts, seeds, and fruit.
 
-<img src="/images/muesli1.jpg" width="400"/>
+<img src="images/muesli1.jpg" width="400"/>
 
 [PICTURE TO ADD]
 
