@@ -30,7 +30,7 @@ recipe:
     6. Spread the muesli evenly on a baking tray. Ensure this is large enough to have it not layered too high.
     7. Bake for 15-20 minutes, or until your desired crunch level. Don't stir during this time, as it breaks the clump formation. Also, pull it out slightly before it's fully done, as it'll continue to cook through residual heat.
     8. Let fully cool on the baking tray and store in an airtight container.
-chefs_notes:
+chef_notes:
   * My favourite nuts to use are almonds, pecans and pistachios. For the seeds, I like pumpkin, chia, and sesame; feel free to add sunflower seeds, but I'm not the biggest fan of these here.
   * I like to have a serving of it fresh from the oven on top of a scoop of vanilla icecream. One has to taste test the product, after all!
 
