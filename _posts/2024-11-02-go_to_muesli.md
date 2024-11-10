@@ -4,7 +4,7 @@ title: Go-to Muesli (Granola)
 categories:
   - Breakfast
   - Baking
-featured_image: <img src="/images/muesli1.jpg" width="400"/>
+featured_image: 
 recipe:
   servings: Many breakfasts
   prep: 15 minutes
@@ -18,17 +18,28 @@ recipe:
     ** Dry ingredients
     * 1 cup whole oats (the big ones!)
     * 1/2 cup rolled oats
-    * 
+    * 1/2 cup (or more!) mix-ins: Coconut, nuts, seeds
+    * 1/4 dried fruit (raisins)
   directions_markdown: |-
-    1. Preheat the oven to 180°C.
-    2. Add the wet 
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+    1. Preheat the oven to 160°C.
+    2. Add the butter/oil to a pan and melt on the stovetop. 
+    3. Take off the heat and stir in the rest of the wet ingredients.
+    4. Mix all the dry ingredients in a bowl.
+    5. Pour the wet ingredients into the dry and stir well.
+    6. Spread the muesli evenly on a baking tray. Ensure this is large enough to have it not layered too high.
+    7. Bake for 15-20 minutes, or until your desired crunch level. Don't stir during this time, as it breaks the clump formation. Also, pull it out slightly before it's fully done, as it'll continue to cook through residual heat.
+    8. Let fully cool on the baking tray and store in an airtight container.
 ---
 My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients! Hence, this is my attempt at reverse-engineering my usual ratios. These may change over time as I work out exaclt what I do! The takehome is that this framework is very flexible.
 
-[PICTURE TO ADD].
+<img src="/images/muesli1.jpg" width="400"/>
+
+[PICTURE TO ADD]
 
 A classic Kiwi combo --- Weet-bix, muesli, and banana.
+
+
+
+Chef's notes:
+* My favourite nuts to use are almonds, pecans and pistachios. For the seeds, I like pumpkin, chia, and sesame; feel free to add sunflower seeds, but I'm not the biggest fan of these here.
+* I like to have a serving of it fresh from the oven on top of a scoop of vanilla icecream. One has to taste test the product, after all!
