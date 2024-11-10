@@ -13,4 +13,5 @@ recipe:
   cook:
   ingredients_markdown:
   directions_markdown:
+chef_notes:
 ---
