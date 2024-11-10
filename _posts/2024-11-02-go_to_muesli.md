@@ -45,4 +45,4 @@ A classic Kiwi combo --- Weet-bix, muesli, and banana.
 
 This muesli is so good that even the rats at Jumbo Hut wanted some during an overnight tramp (hike)!
 
-![Mice like granola](images/mice_like_granola.jpg)
+![Mice like granola](/images/mice_like_granola.jpg)
