@@ -4,7 +4,7 @@ title: Go-to Muesli (Granola)
 categories:
   - Breakfast
   - Baking
-featured_image: images/muesli1.jpg
+featured_image: <img src="/images/muesli1.jpg" width="400"/>
 recipe:
   servings: Many breakfasts
   prep: 15 minutes
@@ -13,6 +13,8 @@ recipe:
     ** Wet ingredients
     * 1/4 cup butter/oil
     * 1/4 cup sweetner (honey/maple syrup)
+    * A splash of vanilla essence
+    * 1 tsp cinnamon or other spices (e.g pumpkin pie spice)
     ** Dry ingredients
     * 1 cup whole oats (the big ones!)
     * 1/2 cup rolled oats
@@ -25,7 +27,7 @@ recipe:
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
-My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients! Hence, this is my attempt at reverse-engineering my usual ratios.
+My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients! Hence, this is my attempt at reverse-engineering my usual ratios. These may change over time as I work out exaclt what I do! The takehome is that this framework is very flexible.
 
 [PICTURE TO ADD].
 
