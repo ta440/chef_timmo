@@ -11,11 +11,13 @@ recipe:
   ingredients_markdown: |-
     * 1 brown onion 
     * 3 cloves garlic
+    * 2 rashers of bacon
     * 500g beef mince
     * 2 Tbsp tomato paste
     * 50-100 mL of red wine
     * 1 cup of beef stock
     * 1 tin of tomatoes
+    * About 10 (smallish) button mushrooms
     * 1 tsp oregano
     * Parmesan (optional, but highly recommended!)
   directions_markdown: |-
@@ -25,6 +27,4 @@ chef_notes: |
     * dfh
 
 ---
-This is the first dish I learned how to cook!
-
-<img src="{{site.baseurl}}/images/spag_bol.jpg" width="400"/>
+This is the first dish I learned how to cook! Dad taught this to me as a 'Boy's time activity' and I always loved spending the time with him in the kitchen. Dad doesn't cook much, but he sure knows how to cook a good Spag Bol!
