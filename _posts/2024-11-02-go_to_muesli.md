@@ -4,7 +4,7 @@ title: Go-to Muesli (Granola)
 categories:
   - Breakfast
   - Baking
-featured_image: /images/muesli1.jpg
+featured_image: "{{site.baseurl}}/images/muesli1.jpg"
 recipe:
   servings: Many breakfasts
   prep: 15 minutes
@@ -37,17 +37,11 @@ chef_notes: |-
 ---
 My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients. Hence, this is my attempt at reverse-engineering my usual ratios. These may change over time as I work out exactly what my preferred ratios are. The takehome is that this framework is very flexible, so please adjust to your desired sweetness, crunch, and ratio of oats to nuts, seeds, and fruit.
 
-<img src="/images/muesli1.jpg" width="400"/>
+<img src="{{site.baseurl}}/images/muesli1.jpg" width="400"/>
 [PICTURE TO ADD]
 
 A classic Kiwi combo --- Weet-bix, muesli, and banana.
 
 This muesli is so good that even the rats at Jumbo Hut wanted some during an overnight tramp (hike)!
-
-![Mice like granola](https://github.com/ta440/chef_timmo/blob/main/images/mice_like_granola.jpg)
-
-<img src="../images/mice_like_granola.jpg" width="400"/>
-
-<img src="./../images/mice_like_granola.jpg" width="400"/>
 
 <img src="{{site.baseurl}}/images/mice_like_granola.jpg" width="400"/>
