@@ -1,10 +1,6 @@
 ---
 title:
 categories: 
- - Dinner
- - Baking
- - Breakfast
- - Bread
 date:
 featured_image:
 recipe:
