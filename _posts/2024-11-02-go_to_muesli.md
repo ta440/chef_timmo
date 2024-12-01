@@ -49,3 +49,5 @@ This muesli is so good that even the rats at Jumbo Hut wanted some during an ove
 <img src="../images/mice_like_granola.jpg" width="400"/>
 
 <img src="./../images/mice_like_granola.jpg" width="400"/>
+
+<img src="{{site.baseurl}}/images/mice_like_granola.jpg" width="400"/>
