@@ -46,7 +46,7 @@ recipe:
     1. Combine all of the above in a food processor and process until smooth. Refrigerate.
     2. Frost cupcakes as you use them.
 ---
-I couldn't resist the illieration!
+I couldn't resist the illiteration!
 
 This was a special meal growing up, that we tended to have once a year. It required my Mum (Coralie) to do a lot of preparation, but the end result is always worth it! This does at least two decent meals for four people, and it's always better the second time when the flavours have longer to really mix and mingle. 
 This recipe is still a treat that I hope Mum cooks when I'm back for any length of time over summer.
