@@ -1,6 +1,6 @@
 ---
 date: 2024-12-1
-title: Dad's Spaghetti Bologenese
+title: Dad's Spaghetti Bolognese
 categories:
   - Dinner
 featured_image: /images/muesli1.jpg
@@ -15,6 +15,7 @@ recipe:
     * 2 Tbsp tomato paste
     * 50-100 mL of red wine
     * 1 cup of beef stock
+    * 1 tin of tomatoes
     * 1 tsp oregano
     * Parmesan (optional, but highly recommended!)
   directions_markdown: |-
