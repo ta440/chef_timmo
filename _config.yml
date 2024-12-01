@@ -2,8 +2,8 @@
 # Site
 
 title: Chef Timmo
-url: "https://ta440.github.io/chef_timmo/"
-baseurl:
+url: "https://ta440.github.io/chef_timmo"
+baseurl: "/chef_timmo"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
