@@ -26,18 +26,10 @@ recipe:
     6. Spread the muesli evenly on a baking tray. Ensure this is large enough to have it not layered too high.
     7. Bake for 15-20 minutes, or until your desired crunch level. Don't stir during this time, as it breaks the clump formation. Also, pull it out slightly before it's fully done, as it'll continue to cook through residual heat.
     8. Let fully cool on the baking tray and store in an airtight container.
-chef_notes: |-
-  * My favourite nuts to use are almonds, pecans and pistachios. For the seeds, I like pumpkin, chia, and sesame; feel free to add sunflower seeds, but I'm not the biggest fan of these here.
-  * I like to have a serving of it fresh from the oven on top of a scoop of vanilla icecream. One has to taste test the product, after all!
+chef_notes: |
+    * dfh
 
 ---
-My first recipe! What better than to start with a recipe that I've been asked for on numerous occasions. I'll be upfront here --- I never measure the ingredients. Hence, this is my attempt at reverse-engineering my usual ratios. These may change over time as I work out exactly what my preferred ratios are. The takehome is that this framework is very flexible, so please adjust to your desired sweetness, crunch, and ratio of oats to nuts, seeds, and fruit.
+This is the first dish I learned how to cook!
 
-<img src="{{site.baseurl}}/images/muesli1.jpg" width="400"/>
-[PICTURE TO ADD]
-
-A classic Kiwi combo --- Weet-bix, muesli, and banana.
-
-This muesli is so good that even the rats at Jumbo Hut wanted some during an overnight tramp (hike)!
-
-<img src="{{site.baseurl}}/images/mice_like_granola.jpg" width="400"/>
+<img src="{{site.baseurl}}/images/spag_bol.jpg" width="400"/>
