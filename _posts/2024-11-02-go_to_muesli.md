@@ -4,7 +4,7 @@ title: Go-to Muesli (Granola)
 categories:
   - Breakfast
   - Baking
-featured_image: https://github.com/ta440/chef_timmo/blob/main/images/muesli1.jpg
+featured_image: /images/muesli1.jpg
 recipe:
   servings: Many breakfasts
   prep: 15 minutes
