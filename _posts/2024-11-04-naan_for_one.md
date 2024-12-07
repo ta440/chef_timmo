@@ -5,9 +5,9 @@ categories:
   - Bread
 featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
 recipe:
-  servings: 12 slices
-  prep: 15 minutes
-  cook: 65 minutes
+  servings: 1 :)
+  prep: 1-3 hours
+  cook: 5 minutes
   ingredients_markdown: |-
     * 1 cup unsalted butter
     * 2 1/2 cups all-purpose flour
