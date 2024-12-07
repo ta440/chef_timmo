@@ -25,7 +25,6 @@ recipe:
     * 1 Tbsp soy sauce
     * 1 tsp fish sauce
     * Chilli powder/flakes (optional)
-
   directions_markdown: |-
     1. Finely dice the onion and carrot and add to a large pot. Cook in a splash of oil until soft.
     2. Add the oats and cook for a couple of minutes, until lightly toasted.
@@ -44,7 +43,7 @@ and cooked beetroot in some iterations.
   * This dish also goes well with a freshly cooked naan.
 ---
 
-What is savoats you ask? Well, I figure it sounds better than saying one is eating porridge for dinner! This recipe was inspired by wanting
+What are savoats you ask? Well, I figure it sounds better than saying one is eating porridge for dinner! This recipe was inspired by wanting
 to have satay chicken, but I didn't have chicken, so I made this instead. It thoroughly satisfied the satay tastebuds!
 
 <img src="{{site.baseurl}}/images/satay_savoats3.jpg" width="400"/>
