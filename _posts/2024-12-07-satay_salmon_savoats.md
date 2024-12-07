@@ -31,15 +31,12 @@ recipe:
     3. Add the finely minced garlic and cook for another 30 seconds. 
     4. Add 2 cups of hot water and make sure that nothing is stuck to the bottom of the pot.
     5. Add the kumara and ginger.
-    6. Mix the sauce ingredients in a separate bowl. Add a splash of water to get a liquidy consistency; if the sauce is too dry when 
-adding it, the peanut butter might clump instead of evenly dispersing through the savoats.
-    7. Add the sauce to the pot. Simmer for thirty minutes or so, until the oats are tender and the kumara is soft. Check the consistency
-reasonably frequently (also so it doesn't stick) and add extra water as required. There should be a nice thick sauce in the final dish.
+    6. Mix the sauce ingredients in a separate bowl. Add a splash of water to get a liquidy consistency; if the sauce is too dry when adding it, the peanut butter might clump instead of evenly dispersing through the savoats.
+    7. Add the sauce to the pot. Simmer for thirty minutes or so, until the oats are tender and the kumara is soft. Check the consistency reasonably frequently (also so it doesn't stick) and add extra water as required. There should be a nice thick sauce in the final dish.
     8. Serve in bowls and add a garnish of diced ginger. My favourite way to serve this is with a dollop of greek yoghurt and toasted pumpkin seeds.
 chef_notes: |-
   * Fish sauce might seem like a strange addition, but it adds a nine kick of umami. Leave this out if you think this step is a bit fishy.
-  * This dish is highly customisable with adding other vegetables or aromatics. I have enjoyed adding cpasicum, spring onions, mushrooms, 
-and cooked beetroot in some iterations.
+  * This dish is highly customisable with adding other vegetables or aromatics. I have enjoyed adding cpasicum, spring onions, mushrooms, and cooked beetroot in some iterations.
   * This dish also goes well with a freshly cooked naan.
 ---
 
