@@ -4,16 +4,17 @@ title: Satay Salmon Savoats
 categories:
   - Lunch
   - Dinner
-featured_image: /images/muesli1.jpg
+featured_image: /images/satay_savoats2.jpg
 recipe:
   servings: 3 people
   prep: 5 minutes
   cook: 45 minutes
   ingredients_markdown: |-
     * 1 Onion
+    * 1 or 2 carrots
     * 3 cloves of garlic
     * A large knob of ginger
-    * 1 or 2 carrots
+    * 1.5 cups of whole oats
     * 1 kumara (sweet potato)
     * 1 tin of pink salmon
     * Frozen green peas
@@ -26,22 +27,25 @@ recipe:
     * Chilli powder/flakes (optional)
 
   directions_markdown: |-
-    1. Preheat the oven to 160°C.
-    2. Add the butter/oil to a pan and melt on the stovetop. 
-    3. Take off the heat and stir in the rest of the wet ingredients.
-    4. Mix all the dry ingredients in a bowl.
-    5. Pour the wet ingredients into the dry and stir well.
-    6. Spread the muesli evenly on a baking tray. Ensure this is large enough to have it not layered too high.
-    7. Bake for 15-20 minutes, or until your desired crunch level. Don't stir during this time, as it breaks the clump formation. Also, pull it out slightly before it's fully done, as it'll continue to cook through residual heat.
-    8. Let fully cool on the baking tray and store in an airtight container.
+    1. Finely dice the onion and carrot and add to a large pot. Cook in a splash of oil until soft.
+    2. Add the oats and cook for a couple of minutes, until lightly toasted.
+    3. Add the finely minced garlic and cook for another 30 seconds. 
+    4. Add 2 cups of hot water and make sure that nothing is stuck to the bottom of the pot.
+    5. Add the kumara and ginger.
+    6. Mix the sauce ingredients in a separate bowl. Add a splash of water to get a liquidy consistency; if the sauce is too dry when 
+adding it, the peanut butter might clump instead of evenly dispersing through the savoats.
+    7. Add the sauce to the pot. Simmer for thirty minutes or so, until the oats are tender and the kumara is soft. Check the consistency
+reasonably frequently (also so it doesn't stick) and add extra water as required. There should be a nice thick sauce in the final dish.
+    8. Serve in bowls and add a garnish of diced ginger. My favourite way to serve this is with a dollop of greek yoghurt and toasted pumpkin seeds.
 chef_notes: |-
-  * My favourite nuts to use are almonds, pecans and pistachios. For the seeds, I like pumpkin, chia, and sesame; feel free to add sunflower seeds, but I'm not the biggest fan of these here.
-  * I like to have a serving of it fresh from the oven on top of a scoop of vanilla icecream. One has to taste test the product, after all!
-
+  * Fish sauce might seem like a strange addition, but it adds a nine kick of umami. Leave this out if you think this step is a bit fishy.
+  * This dish also goes well with a freshly cooked naan.
 ---
 
 What is savoats you ask? Well, I figure it sounds better than saying one is eating porridge for dinner! This recipe was inspired by wanting
 to have satay chicken, but I didn't have chicken, so I made this instead. It thoroughly satisfied the satay tastebuds!
+
+<img src="{{site.baseurl}}/images/satay_savoats3.jpg" width="400"/>
 
 The use of oats is like a creamy risotto with a bit of chew, and controversially, I might prefer the texture of this to many
 risottos. If you're game, the leftovers make a lovely warm breakfast in the colder months.
