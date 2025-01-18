@@ -33,7 +33,7 @@ recipe:
     5. Add the kumara and ginger.
     6. Mix the sauce ingredients in a separate bowl. Add a splash of water to get a liquidy consistency; if the sauce is too dry when adding it, the peanut butter might clump instead of evenly dispersing through the savoats.
     7. Add the sauce to the pot. Simmer for thirty minutes or so, until the oats are tender and the kumara is soft. Check the consistency reasonably frequently (also so it doesn't stick) and add extra water as required. There should be a nice thick sauce in the final dish.
-    8. About ten minutes before serving, add the tinned salmon, broken into nice chunks. This shouldn't be added too early, else it will disintegrate too much into the sauce.
+    8. About ten minutes before serving, add the frozen pease and tinned salmon, broken into nice chunks. This shouldn't be added too early, else it will disintegrate too much into the sauce.
     9. Serve in bowls and add a garnish of diced ginger. My favourite way to serve this is with a dollop of greek yoghurt and toasted pumpkin seeds.
 chef_notes: |-
   * Fish sauce might seem like a strange addition, but it adds a nine kick of umami. Leave this out if you think this step is a bit fishy.
